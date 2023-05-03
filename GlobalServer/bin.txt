@@ -1,1 +1,1 @@
-- wom2.bin lava2.exe - - metin2client.bin - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- wom2.bin lava2.exe - - metin2client.bin bin_365.exe - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
