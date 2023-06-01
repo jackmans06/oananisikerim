@@ -1,1 +1,1 @@
-- wom2.bin lava2.exe - - metin2client.bin bin_365.exe gameclient.exe metin2client.exe Ashura.exe Storm2.bin bin_solana.exe metin2client.bin - - - - - - - - - - - - - - - - - - - - - - 
+- wom2.bin lava2.exe - - metin2client.bin bin_365.exe gameclient.exe metin2client.exe Ashura.exe Storm2.bin bin_solana.exe metin2client.bin Nova2-Launcher.exe - - - - - - - - - - - - - - - - - - - - - 
